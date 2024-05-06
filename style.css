@@ -34,6 +34,7 @@ html {
 }
 .nav-links li {
   margin: 0 30px;
+  font-size: 3vmin;
 }
 header {
   width: 100vw;
